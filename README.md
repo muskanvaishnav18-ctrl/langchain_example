@@ -1,0 +1,2 @@
+# STEPS TO DEVELOP AND RUN THE APP
+Verify wh
